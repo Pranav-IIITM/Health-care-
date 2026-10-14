@@ -49,7 +49,7 @@ What changes if a different stakeholder is primary: with the **records team** as
 
 It is worth solving because every later step (reminders, recovery, measurement) depends on the missing record. It is tractable because the instruction language is narrow and formulaic. It is testable because “missed” and “returned” are facts in registration data.
 
-## 5. Solution: Dobara
+## 5. Solution: LoopBack
 
 1. **Capture.** A rule reader proposes a due date and bring list from the clinician’s words. It handles clinical shorthand (n/7, n/52, n/12), Hinglish and Devanagari; ignores medicine durations; aligns to the clinic’s OPD days; and flags contradictions, conditions, events and missing dates as decisions for a person. The OPD nurse confirms.
 2. **Check contact.** With the patient present: number, shared or not, language, and consent per route. The patient leaves with a bilingual slip that carries the clinician’s return precautions word for word.

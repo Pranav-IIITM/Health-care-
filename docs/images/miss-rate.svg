@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="150" viewBox="0 0 720 150" font-family="-apple-system,BwTeX,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" role="img" aria-label="28% of follow-up patients miss their window">
+<rect x="0" y="0" width="720" height="150" rx="8" fill="#ffffff" stroke="#dcdedf" stroke-width="1"/>
+<rect x="0" y="0" width="6" height="150" rx="3" fill="#d8b529"/>
+<text x="26" y="34" font-size="17" font-weight="700" fill="#07152d">28% of follow-up patients miss their window</text>
+<text x="26" y="54" font-size="12" fill="#505a5f">District OPD, 3-month sample  ·  CASE file</text>
+
+<rect x="26" y="86" width="481.0" height="34" fill="#00703c"/>
+<rect x="509.0" y="86" width="185.0" height="34" fill="#b5241b"/>
+<text x="266.5" y="108" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">72%</text>
+<text x="600.5" y="108" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">28%</text>
+<g font-size="12" fill="#505a5f">
+<rect x="26" y="136" width="11" height="11" fill="#00703c"/><text x="43" y="145">Returned on time</text>
+<rect x="176" y="136" width="11" height="11" fill="#b5241b"/><text x="193" y="145">Missed the window &#8212; invisible to the hospital today</text>
+</g>
+</svg>

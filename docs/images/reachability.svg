@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="150" viewBox="0 0 720 150" font-family="-apple-system,BwTeX,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" role="img" aria-label="A quarter of patients can’t be reached by a plain text">
+<rect x="0" y="0" width="720" height="150" rx="8" fill="#ffffff" stroke="#dcdedf" stroke-width="1"/>
+<rect x="0" y="0" width="6" height="150" rx="3" fill="#d8b529"/>
+<text x="26" y="34" font-size="17" font-weight="700" fill="#07152d">A quarter of patients can’t be reached by a plain text</text>
+<text x="26" y="54" font-size="12" fill="#505a5f">Contact must be checked while the patient is still at the desk  ·  CASE file</text>
+<rect x="26.0" y="86" width="492.3" height="34" fill="#00703c"/>
+<text x="272.2" y="108" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">74%</text>
+<rect x="520.3" y="86" width="124.9" height="34" fill="#d8b529"/>
+<text x="582.8" y="108" font-size="13" font-weight="700" fill="#07152d" text-anchor="middle">19%</text>
+<rect x="647.2" y="86" width="44.8" height="34" fill="#b5241b"/>
+<text x="669.6" y="108" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">7%</text>
+<rect x="26" y="136" width="11" height="11" fill="#00703c"/><text x="43" y="145" font-size="12" fill="#505a5f">Own phone</text>
+<rect x="136.8" y="136" width="11" height="11" fill="#d8b529"/><text x="153.8" y="145" font-size="12" fill="#505a5f">Shared household</text>
+<rect x="298.0" y="136" width="11" height="11" fill="#b5241b"/><text x="315.0" y="145" font-size="12" fill="#505a5f">Unreachable</text>
+</svg>
